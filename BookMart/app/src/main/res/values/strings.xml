@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">BookMart</string>
+    <string name="coin_heading">Your coins</string>
+    <string name="coin">0</string>
+    <string name="getCoin">Tap to Get Coins</string>
+    <string name="all">All</string>
+    <string name="academic">Academic</string>
+    <string name="gen">General</string>
+    <string name="academic_book">Academic Books</string>
+    <string name="school_img">School_img</string>
+    <string name="book_name">BookName BookName</string>
+    <string name="fav">Favourite</string>
+    <string name="book">Book img</string>
+    <string name="loc">Location</string>
+    <string name="date">Today</string>
+    <string name="price">Rs 2000</string>
+<string name="des">lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum </string>
+<string name="offer">Offer</string>
+    <string name="interested">Interested</string>
+    <string name="your_request">
+Your request is sent to Seller!
+</string>
+
+    <string-array name="book_name">
+        <item>Introduction to Java</item>
+        <item>Introduction to python</item>
+        <item>Introduction to C++</item>
+        <item>Introduction to c</item>
+        <item>Introduction to PHP</item>
+        <item>Introduction to Kotlin</item>
+    </string-array>
+
+    <string-array name="book_price">
+        <item>Rs 2000/-</item>
+        <item>Rs 1000/-</item>
+        <item>Rs 900/-</item>
+        <item>Rs 2000/-</item>
+        <item>Rs 500/-</item>
+        <item>Rs 600/-</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Karachi</item>
+        <item>Lahore</item>
+        <item>Karachi</item>
+        <item>Islamabad</item>
+        <item>Sindh</item>
+        <item>Lahore</item>
+    </string-array>
+</resources>
